@@ -1,0 +1,17 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="FILM",=== Film ===
+
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/11c05b3e-6fb6-45f6-8d49-40de524478b0-width200-quality90.jpeg" group-title="FILM",Film TOP
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/aaaaccfd-cffc-4230-8a46-6c023a74d0b7/4.m3u8
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f4795c00-5b72-45db-a2df-fc35cbe7f97a-width200-quality90.jpeg" group-title="FILM",Azione
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/22ae75c0-c31b-4e68-aa47-4253003023bf/4.m3u8
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/1003e724-dfb1-4643-a1f0-b08cfe1e3420-width200-quality90.jpeg" group-title="FILM",Commedia
+https://04c192a0b2944136967ca6b996e1acae.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_RakutenComedyMovies/a1f5fcbd-4fe5-4bdc-b583-d23c5a7ccf47/2.m3u8
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/2d93c9f1-7d71-44c4-b48a-1c178020e817-width200-quality90.jpeg" group-title="FILM",Dramma
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/7bd54bfe-d9eb-41da-8c8d-98a18533a5b8/4.m3u8
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a66f7725-2903-4773-89c1-362cc66f79b7-romance-rakuten-tv-1641196566-width200-quality90.jpeg" group-title="FILM",Romance
+https://0e46f0ad8cab40c9a43a323a53f46e4c.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-it_RakutenRomance/f6e1ada0-8a37-406e-a598-edb6046460d9/2.m3u8
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/01babec6-de31-4c3d-bdf9-467d1afc4720-width200-quality90.jpeg" group-title="FILM",Fantascienza
+https://2bc7b486c90441a480dcab4bcdc6fbb5.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-it_RakutenThriller/c8e4f118-d91c-4bd1-8a2e-2f6f9137519f/2.m3u8
