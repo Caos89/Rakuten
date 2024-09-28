@@ -54,7 +54,7 @@ https://9176f3e149474dbfa51853e72e273576.mediatailor.us-east-1.amazonaws.com/v1/
 https://1dd4e81ec8bb412ebde202c8718a7578.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-it_BBCDrama/36efa361-be2a-4474-8d77-d0b24c2204e6/2.m3u8
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/2e2e2106-7e0c-41eb-8db2-e3282dc40770-width200-quality90.png" group-title="PROGRAMMI TV",Film rise autostop per il cielo
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/a0c14360-3c1d-4ae7-bb06-dde06b00e945/5.m3u8
-#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3877261e-9c67-4e1b-a7bc-db9b0b0f945c-width200-quality90.jpeg" group-title="PROGRAMMI TV",Rakuten Viki
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06-width200-quality90.png" group-title="PROGRAMMI TV",Rakuten Viki
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/59d6c672-d05c-42a4-b326-e24ae7e80f03/2.m3u8
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/d0714872-38d8-4766-82e5-37cc7fc7d889-width200-quality90.jpeg" group-title="PROGRAMMI TV",Inazuma eleven go
 https://fb48d2109ad543dbba5100bae02bd86f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_InazumaElevenGo/4f86355f-5722-4235-b956-1a690cc4b7ae/2.m3u8
