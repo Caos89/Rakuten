@@ -35,6 +35,20 @@ https://9a97f2f113334de59d1c4dc093b76280.mediatailor.us-east-1.amazonaws.com/v1/
 https://30a2c5f3e66e4b208d68c6b61d5db155.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_GrjngoFilmWestern/510acf89-9021-4666-aaa0-738428d3a6ac/2.m3u8
 #EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3877261e-9c67-4e1b-a7bc-db9b0b0f945c-width200-quality90.jpeg" group-title="FILM",Risate all'italiana
 https://a67dba9f8662428293e6b8a25d1c73ed.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-it_Risateallitaliana/eca94446-79df-48de-968a-5c07b4cd542a/2.m3u8
+EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100007FN_20221012T021057SQUARE.png_20221012021057.png" group-title="Film", Film Top - Rakuten TV
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ45000188Z_20220404T010000SQUARE.png_20220404010000.png" group-title="Film",Film d'azione - Rakuten TV
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500020HT_20221026T004419SQUARE.png_20221026004419.png" group-title="Film", Draama - Rakuten TV
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1800001W9_20240507T093330SQUARE.png" group-title="Film",Fantascienza - Rakuten TV
+https://2bc7b486c90441a480dcab4bcdc6fbb5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-it_RakutenThriller/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100009AL_20240507T093332SQUARE.png" group-title="Film", Romance - Rakuten TV
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500019R9_20240507T093310SQUARE.png" group-title="Film", Commedia - Rakuten TV
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000043B_20240117T032905SQUARE.png_20240117032906.png" group-title="Film", 100% Natale - Rakuten TV
+https://8f7a275e527f4155aa33446da41ed21c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_RakutenFamily/playlist.m3u8
 
 
 #EXTINF:-1 group-title="PROGRAMMI TV",=== Programmi TV ===
